@@ -1,0 +1,26 @@
+th,td{width:50px;height: 70px; text-align:center; }
+ th{background-color: #c1f9ff;}
+ #tb_calendar, #main{ width : 700px;}
+ #main{ border : 10px ; solid #c1f9ff;}
+ #nav{
+  background-color:#32C2F0;
+  min-height: 20px;
+  padding: 10px;
+  text-align: center;
+  color : White ;
+ }
+ .navLeft{float: left; }
+ .navRight{float: right;}
+ .title{float: left; text-align: center; width: 400px;}
+ .next_month{color: DarkGray;}
+ .day{color: blue;background-color:yellow;}
+ 
+.calendar-block{
+	background-color: #f2f1ef;
+	border: 2px solid #fff;
+	border-radius: 5px;
+	display: inline-table;
+	height: 95px;
+	text-align: center;
+	width: 95px;
+}
